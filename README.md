@@ -1,2 +1,17 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17680854&assignment_repo_type=AssignmentRepo)
-# INF 6420 - Intro to Web Development
+# Fatima Sow's INF6420 Project
+
+A portfolio site to showcase and sell my artwork.
+
+## Wireframes
+
+These are wireframes to brainstorm and map out the layout of the website.
+
+![Wireframe of Landing Page](<wireframes/wireframe 1.jpg>)
+
+Header - will include my navigation menu and my name
+
+Navigation Menu- will include links to other pages like a contact form and shop page
+
+Main Content- will focus on artworks and my artist statement
+
+Footer- will include copyright informations
