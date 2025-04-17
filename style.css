@@ -1,3 +1,58 @@
 body {
-  background: yellowgreen
+  background: burlywood
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(186, 130, 63);
+  color: black;
+}
+
+a{
+  color: black;
+  text-align: center;
+  font-size: 40;
+}
+
+header {text-align: center;
+margin-top: 40;
+}
+
+ main-nav { text-align: horizontal ;} 
+
+img {
+  max-width: 50%;
+  padding: 0;
+  margin: 0;
+  align-content: left;
+ }
+
+ main {
+  text-align: center;
+ }
+
+ h1{
+  text-align: center;
+ }
+
+ h2{
+  margin-top: 20px;
+ }
+
+
+img sr self-portrait {
+  margin: 15px;
+}
+
+footer { 
+  text-align: center;
+  margin: 200px;
+}
+
+footer-column{
+  margin: 40px;
 }
